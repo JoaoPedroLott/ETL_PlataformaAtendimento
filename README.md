@@ -4,7 +4,7 @@
 ## Tabela de conteúdos
 * [Tasks](#Tasks)
 * [Arquitetura](#Arquitetura)
-* [Modelo de dados](#Modelo de dados)
+* [Modelo](#Modelo)
 * [ETL](#ETL)
 * [Testes](#Testes)
 
@@ -24,7 +24,7 @@ modelo de dados proposto.
   seguindo o modelo de dados proposto para o arquivo Json. (Optei pelo Mongo DB pois é uma boa opção para armazenar grandes volumes de dados
   e por trabalhar com arquivos Json, o mesmo formato do modelo de dados proposto, facilitando assim a integração)
 	
-## Modelo de dados
+## Modelo
 O modelo de dados proposto segue a seguinte estrutura em Json:
 ```javascript
 {
